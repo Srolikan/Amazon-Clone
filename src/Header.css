@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    background-color: #131921;
+}
+
+.container {
+    margin-top: 1.5rem;
+}
+
+.logo>img {
+    height: 60px;
+    width: 130px;
+    object-fit: contain;
+}
+
+.form-inline {
+    width: 200%;
+}
+
+.nav__right {
+    display: flex;
+
+    color: white;
+}
+
+.par {
+    display: flex;
+    font-size: .8rem;
+}
+
+.first__p {
+    margin-right: 1rem;
+}
+
+.first__div, .second__div {
+    font-size: 1rem;
+}

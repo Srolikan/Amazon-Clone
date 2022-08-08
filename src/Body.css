@@ -1,0 +1,7 @@
+.body {
+    width: 900px;
+}
+
+.row__line {
+    display: flex;
+}

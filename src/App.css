@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+}
+
+input[type='radio'] {
+    display: none;
+}
+
+.star {
+    cursor: pointer
+}
