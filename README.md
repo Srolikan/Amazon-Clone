@@ -1,8 +1,4 @@
 **Yapılacaklar:**
-
-**Debugging**
-
-/basket/basket == React router
 ------------------
 0) Giriş
 
@@ -24,8 +20,4 @@
 
 7) Stripe
 
-*Bonus:
 8) Ürün ekleme
-
-***Öğrenilecekler***
-Component ve props
